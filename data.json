@@ -1,0 +1,146 @@
+{
+    "jobs": 
+            [
+                {
+                    "id": 1,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081945/App-jobs/photosnap_r86eay.svg",
+                    "titleEnt": "Photosnap",
+                    "jobNew": true,
+                    "featured": true,
+                    "titleJob": "Senior Frontend Developer",
+                    "datePublished": 1,
+                    "modality": "Full time",
+                    "ubication": "USA only",
+                    "keyWords":[
+                        "Frontend", "Senior", "HTML", "CSS", "JavaScript"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081945/App-jobs/manage_nsnnnt.svg",
+                    "titleEnt": "Manage",
+                    "jobNew": true,
+                    "featured": true,
+                    "titleJob": "Fullstack Developer",
+                    "datePublished": 1,
+                    "modality": "Part Time",
+                    "ubication": "Remote",
+                    "keyWords":[
+                        "Fullstack", "Midweight", "Python", "React"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081945/App-jobs/account_hfx61t.svg",
+                    "titleEnt": "Account",
+                    "jobNew": true,
+                    "featured": false,
+                    "titleJob": "Junior Frontend Developer",
+                    "datePublished": 2,
+                    "modality": "Part Time",
+                    "ubication": "USA only",
+                    "keyWords":[
+                        "Frontend", "Junior", "React", "Sass", "JavaScript"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081944/App-jobs/myhome_aqo3as.svg",
+                    "titleEnt": "MyHome",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Junior Frontend Developer",
+                    "datePublished": 5,
+                    "modality": "Contract",
+                    "ubication": "USA only",
+                    "keyWords":[
+                        "Frontend", "Junior", "CSS", "JavaScript"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081945/App-jobs/loop-studios_k5iabt.svg",
+                    "titleEnt": "Loop Studios",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Software Engineer",
+                    "datePublished": 1,
+                    "modality": "Full Time",
+                    "ubication": "Worldwide",
+                    "keyWords":[
+                        "Fullstack","Midweight", "JavaScript", "Sass", "Ruby"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081943/App-jobs/faceit_qmighz.svg",
+                    "titleEnt": "Facelt",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Junior Backend Developer",
+                    "datePublished": 2,
+                    "modality": "Full Time",
+                    "ubication": "UK only",
+                    "keyWords":[
+                        "Backend","Junior", "Ruby", "RoR"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081943/App-jobs/shortly_fpb2gx.svg",
+                    "titleEnt": "Shortly",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Junior Developer",
+                    "datePublished": 2,
+                    "modality": "Full Time",
+                    "ubication": "Worldwide",
+                    "keyWords":[
+                        "Frontend","Junior", "HTML", "Sass", "JavaScript"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081943/App-jobs/insure_hwxw6m.svg",
+                    "titleEnt": "Insure",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Junior Frontend Developer",
+                    "datePublished": 2,
+                    "modality": "Full Time",
+                    "ubication": "USA only",
+                    "keyWords":[
+                        "Frontend","Junior", "Vue", "JavaScript", "Sass"
+                    ]
+                },
+                {
+                    "id": 9,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081944/App-jobs/eyecam-co_lshmvi.svg",
+                    "titleEnt": "Eyecam Co.",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Full Stack Engineer",
+                    "datePublished": 3,
+                    "modality": "Full Time",
+                    "ubication": "Worldwide",
+                    "keyWords":[
+                        "Fullstack","Midweight", "JavaScript", "Django", "Python"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "imgJob": "https://res.cloudinary.com/docutv7ug/image/upload/v1650081946/App-jobs/the-air-filter-company_mbh0tk.svg",
+                    "titleEnt": "The Air Filter Company",
+                    "jobNew": false,
+                    "featured": false,
+                    "titleJob": "Front-end Dev",
+                    "datePublished": 1,
+                    "modality": "Part Time",
+                    "ubication": "Worldwide",
+                    "keyWords":[
+                        "Frontend","Junior", "React", "Sass", "JavaScript"
+                    ]
+                }    
+            ]
+}
+
