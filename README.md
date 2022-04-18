@@ -7,7 +7,7 @@ se implemento la metodologia de la modularizacion e importacion para optimizar e
 Para una mejor visualizacion correrlo de forma local.
 
 Link de Repositorio: https://github.com/julianest/api-jobs 
-Link de despliegue: https://github.com/julianest/api-jobs/index.html
+
 ## Available Scripts
 
 In the project directory, you can run:
