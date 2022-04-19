@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/api-jobs/static/css/main.e5171e3d.css",
+    "main.js": "/api-jobs/static/js/main.49b7b3b6.js",
+    "static/media/bgdesktop.svg": "/api-jobs/static/media/bgdesktop.8694f4668c94cdc9d16e7d1b865da3b0.svg",
+    "index.html": "/api-jobs/index.html",
+    "main.e5171e3d.css.map": "/api-jobs/static/css/main.e5171e3d.css.map",
+    "main.49b7b3b6.js.map": "/api-jobs/static/js/main.49b7b3b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5171e3d.css",
+    "static/js/main.49b7b3b6.js"
+  ]
+}
