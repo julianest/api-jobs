@@ -9,6 +9,8 @@ Para una mejor visualizacion correrlo de forma local.
 Link de API: https://api-jobdev.herokuapp.com/jobs
 
 Link de Repositorio: https://github.com/julianest/api-jobs 
+Link de despliegue: https://julianest.github.io/api-jobs/
+
 
 ## Available Scripts
 
