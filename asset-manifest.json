@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/api-jobs/static/css/main.e5171e3d.css",
-    "main.js": "/api-jobs/static/js/main.e13cd05c.js",
+    "main.js": "/api-jobs/static/js/main.d74b98ea.js",
     "static/media/bgdesktop.svg": "/api-jobs/static/media/bgdesktop.8694f4668c94cdc9d16e7d1b865da3b0.svg",
     "index.html": "/api-jobs/index.html",
     "main.e5171e3d.css.map": "/api-jobs/static/css/main.e5171e3d.css.map",
-    "main.e13cd05c.js.map": "/api-jobs/static/js/main.e13cd05c.js.map"
+    "main.d74b98ea.js.map": "/api-jobs/static/js/main.d74b98ea.js.map"
   },
   "entrypoints": [
     "static/css/main.e5171e3d.css",
-    "static/js/main.e13cd05c.js"
+    "static/js/main.d74b98ea.js"
   ]
 }
