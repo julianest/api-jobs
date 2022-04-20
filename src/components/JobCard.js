@@ -11,7 +11,9 @@ export default class JobCard extends Component {
 
     }
     componentDidMount (){
-        this.fetchInfo("http://3.19.186.177:3333/jobs");
+        this.fetchInfo("https://api-jobdev.herokuapp.com/jobs");
+        // http://3.19.186.177:3333/jobs
+        
     }
 
     fetchInfo(url){

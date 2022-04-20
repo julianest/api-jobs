@@ -6,6 +6,8 @@ se implemento la metodologia de la modularizacion e importacion para optimizar e
 
 Para una mejor visualizacion correrlo de forma local.
 
+Link de API: https://api-jobdev.herokuapp.com/jobs
+
 Link de Repositorio: https://github.com/julianest/api-jobs 
 
 ## Available Scripts
