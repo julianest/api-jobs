@@ -11,7 +11,7 @@ export default class JobCard extends Component {
 
     }
     componentDidMount (){
-        this.fetchInfo("http://localhost:3000/jobs");
+        this.fetchInfo("http://3.19.186.177:3333/jobs");
     }
 
     fetchInfo(url){
